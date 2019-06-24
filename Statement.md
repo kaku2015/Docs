@@ -1,7 +1,7 @@
 # 当前使用的是盗版应用
 你现在使用的是被修改的安装包，里面可能**插入广告、木马、获取隐私、骗取支付**，请更新正式版。
 
-下载地址：https://play.google.com/store/apps/details?id=com.hld.audiorecorder
+下载地址：https://play.google.com/store/apps/dev?id=5073499114004010169
 
 安装正式版之前请**先卸载当前版本**，否则会提示签名不一致
 
