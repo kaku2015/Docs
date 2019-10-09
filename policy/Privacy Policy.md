@@ -3,7 +3,7 @@ Sgallery \"we\", \"us\", \"our\" is committed to maintaining customer privacy th
 ## 1 Information We Collect From You
 1.1 We may collect Personal Data from you, such as your name, e-mail address when you create an account to log in to your Account.
 </br>1.2 If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other information included in the e-mail, in order to send you a reply.
-</br>1.3 We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, device identifier, account meta data and other information when you use the services provided by Sgallery.
+</br>1.3 We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, account meta data and other information when you use the services provided by Sgallery.
 ## 2 The Purpose of Collecting Information
 Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We will only use Personal Data in ways that are compatible with the purposes for which it was collected or as subsequently authorized by you. We use your Personal Data in the following ways:
 </br>i) To facilitate the creation of and secure your Account on our network
