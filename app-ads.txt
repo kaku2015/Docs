@@ -1,0 +1,25 @@
+display.io, 2050, DIRECT
+rubiconproject.com, 19938, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158101, RESELLER, 5d62403b186f2ace
+axonix.com, 57835, RESELLER
+undertone.com, 3685, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+appnexus.com, 2234, RESELLER
+yieldmo.com, 2316083434055435982, RESELLER
+loopme.com, 11012, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+inmobi.com, b164fef73b06493b92a9fae09941eef4, RESELLER, 83e75a7ae333ca9d
+contextweb.com, 562153, RESELLER, 89ff185a4c4e857c
+sonobi.com, 4980f2fde3, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
+spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34
+spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
+# Ad4Game
+a4g.com, 2775364, DIRECT
+google.com, pub-1232265399417302, RESELLER
