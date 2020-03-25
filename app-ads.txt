@@ -67,3 +67,6 @@ Sabio.us, 100032, RESELLER, 96ed93aaa9795702 #Verve
 openx.com, 540543195, RESELLER, 6a698e2ec38604c6 #Verve
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 Contextweb.com, 561849, RESELLER, 89ff185a4c4e857c #Verve
+admixer.net 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
+onetag.com, 59aa7be4921bac8, RESELLER
+indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
