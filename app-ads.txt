@@ -7,13 +7,11 @@ axonix.com, 57835, RESELLER
 undertone.com, 3685, RESELLER
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 appnexus.com, 2234, RESELLER
-yieldmo.com, 2316083434055435982, RESELLER
 loopme.com, 11012, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
 inmobi.com, b164fef73b06493b92a9fae09941eef4, RESELLER, 83e75a7ae333ca9d
-contextweb.com, 562153, RESELLER, 89ff185a4c4e857c
 sonobi.com, 4980f2fde3, DIRECT, d1a215d9eb5aee9e
 rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
 contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
@@ -26,6 +24,15 @@ sabio.us, 100054, RESELLER, 96ed93aaa9795702
 rubiconproject.com, 16990, RESELLER, 0bfd66d529a55807
 advertising.com, 28481, RESELLER
 rhythmone.com, 3955616926, RESELLER, a670c89d4a324e47
+admanmedia.com, 34, RESELLER
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+advertising.com, 25990, RESELLER
+admixer.net, 2e1cb1ea-814c-476a-8627-d474e41378df, RESELLER
+contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
+spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 #A4G
 a4g.com, 2775364, DIRECT
 ad.plus, 352349, DIRECT
