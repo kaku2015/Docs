@@ -49,83 +49,30 @@ advertising.com, 28246, RESELLER
 display.io, 2050, DIRECT
 rubiconproject.com, 19938, RESELLER, 0bfd66d529a55807
 pubmatic.com, 158101, RESELLER, 5d62403b186f2ace
-axonix.com, 57835, RESELLER
 undertone.com, 3685, RESELLER
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 appnexus.com, 2234, RESELLER
+rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
+advertising.com, 28650, RESELLER
+advertising.com, 28481, RESELLER
+rhythmone.com, 3955616926, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 3955616926, RESELER
 loopme.com, 11229, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
-improvedigital.com, 1532, RESELLER
-admanmedia.com, 594, DIRECT
-advertising.com, 25990, RESELLER
-contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
-axonix.com, 57869, RESELLER
-engagebdr.com, 7, RESELLER #banner #video
-engagebdr.com, 16, RESELLER #banner #video
-engagebdr.com, 84, RESELLER #banner #video
-engagebdr.com, 10181, RESELLER #banner #video
+axonix.com, 57835, RESELLER
 inmobi.com, b164fef73b06493b92a9fae09941eef4, RESELLER, 83e75a7ae333ca9d
-sonobi.com, 4980f2fde3, DIRECT, d1a215d9eb5aee9e
-rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
-contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
-rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
-appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
-spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34
-spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
-sabio.us, 100054, RESELLER, 96ed93aaa9795702
-rubiconproject.com, 16990, RESELLER, 0bfd66d529a55807
-advertising.com, 28481, RESELLER
-rhythmone.com, 3955616926, DIRECT, a670c89d4a324e47
-video.unrulymedia.com, 3955616926, DIRECT
-indexexchange.com, 182257, RESELLER
-appnexus.com, 6849, RESELLER
-rubiconproject.com, 15268, RESELLER
-spotxchange.com, 285547, RESELLER, 7842df1d2fe2db34
-spotx.tv, 285547, RESELLER, 7842df1d2fe2db34
-pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
-advertising.com, 28605, RESELLER
-improvedigital.com, 1699, RESELLER
-admanmedia.com, 34, RESELLER
-openx.com, 540866936, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
-admixer.net, 2e1cb1ea-814c-476a-8627-d474e41378df, RESELLER
+contextweb.com, 562153, RESELLER, 89ff185a4c4e857c
+sonobi.com, 4980f2fde3, RESELLER, d1a215d9eb5aee9e
+admanmedia.com, 34, DIRECT
 indexexchange.com, 191497, RESELLER
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
 improvedigital.com, 1668, RESELLER
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
-video.unrulymedia.com, 3948367200, RESELLER
-advlion.com, 20621, RESELLER
-improvedigital.com, 1532, RESELLER
-engagebdr.com, 7, RESELLER #banner #video
-engagebdr.com, 16, RESELLER #banner #video
-engagebdr.com, 84, RESELLER #banner #video
-engagebdr.com, 10181, RESELLER #banner #video
-admanmedia.com, 594, DIRECT
-advertising.com, 25990, RESELLER
-axonix.com, 57869, RESELLER
-contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
-webeyemob.com, 70084, RESELLER
-openx.com, 540679900, RESELLER, 6a698e2ec38604c6
-adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
-pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
-admixer.net, 3bc509b2-6568-4bd8-a997-9859ba0c9118, RESELLER
-admixer.net, 7763a4a9-6d8b-4efb-987a-dcb2390cd277, RESELLER
-onetag.com, 59d216e971852f2, RESELLER
-rhythmone.com, 1816189007, RESELLER, a670c89d4a324e47
-mobupps, 12878 , DIRECT
-appnexus.com, 10617, RESELLER
-appnexus.com, 9393, RESELLER
-admixer.net, 81aedb7e-ca73-4498-997c-74f3b92481ea, RESELLER
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
-axonix.com, 57869, RESELLER
-contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
-appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
-spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34
-spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
-rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
-gamoshi.io, 267, RESELLER
-onetag.com, 59d216e971852f2, RESELLER
+video.unrulymedia.com, 3948367200, RESELLER
+rubiconproject.com, 20854, RESELLER, 0bfd66d529a55807
