@@ -45,6 +45,7 @@ pubnative.net, 1007303, DIRECT, d641df8625486a7b
 pubnative.net, 1007311, DIRECT, d641df8625486a7b
 Pubnative.net, 1006951, RESELLER, d641df8625486a7b   
 advertising.com, 28246, RESELLER
+video.unrulymedia.com, 3704396951, RESELLER
 # display.io
 display.io, 2050, DIRECT
 rubiconproject.com, 19938, RESELLER, 0bfd66d529a55807
