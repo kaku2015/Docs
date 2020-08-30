@@ -57,6 +57,15 @@ pubnative.net, 1004796, RESELLER, d641df8625486a7b
 pubnative.net, 1007194, RESELLER, d641df8625486a7b
 spotxchange.com, 234183, RESELLER, 7842df1d2fe2db34 #Verve
 spotx.tv, 234183, RESELLER, 7842df1d2fe2db34 #Verve
+gamoshi.io, 267-b3609, RESELLER
+appnexus.com, 11744, RESELLER, f5ab79cb980f11d1
+bidmachine.io, 138, RESELLER
+liftoff.io, 7f6945815e6, RESELLER
+mobfox.com, 303-b3610, RESELLER
+vyadd.com, 3579, RESELLER
+advenuemedia.co.uk, 397, RESELLER
+advenuemedia.co.uk, 398, RESELLER
+mars.media, 1010380, RESELLER, 8624339f102fb076
 # display.io
 display.io, 2050, DIRECT
 rubiconproject.com, 19938, RESELLER, 0bfd66d529a55807
