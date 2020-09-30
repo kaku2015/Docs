@@ -77,16 +77,15 @@ rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 advertising.com, 28650, RESELLER
 advertising.com, 28481, RESELLER
 rhythmone.com, 3955616926, RESELLER, a670c89d4a324e47
-video.unrulymedia.com, 3955616926, RESELER
+video.unrulymedia.com, 3955616926, RESELLER
 loopme.com, 11229, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
-axonix.com, 57835, RESELLER
 inmobi.com, b164fef73b06493b92a9fae09941eef4, RESELLER, 83e75a7ae333ca9d
 contextweb.com, 562153, RESELLER, 89ff185a4c4e857c
 sonobi.com, 4980f2fde3, RESELLER, d1a215d9eb5aee9e
-admanmedia.com, 34, DIRECT
+admanmedia.com, 34, RESELLER
 indexexchange.com, 191497, RESELLER
 appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
 improvedigital.com, 1668, RESELLER
@@ -97,6 +96,8 @@ pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3948367200, RESELLER
 rubiconproject.com, 20854, RESELLER, 0bfd66d529a55807
+cgnl.io, atmvl9s, RESELLER, d9819e7b540bd6e3
+pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
