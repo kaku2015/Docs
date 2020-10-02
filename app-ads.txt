@@ -18,7 +18,6 @@ rhythmone.com, 665259327, DIRECT, a670c89d4a324e47
 rhythmone.com, 2451244104, DIRECT, a670c89d4a324e47
 #PubNative
 pubnative.net, 1007327, DIRECT, d641df8625486a7b
-pubnative.net, 1007327, RESELLER, d641df8625486a7b
 Pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
 openx.com, 537152826, RESELLER, 6a698e2ec38604c6
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
@@ -66,6 +65,15 @@ vyadd.com, 3579, RESELLER
 advenuemedia.co.uk, 397, RESELLER
 advenuemedia.co.uk, 398, RESELLER
 mars.media, 1010380, RESELLER, 8624339f102fb076
+improvedigital.com, 1210, RESELLER
+reforge.in,353,RESELLER
+pubmatic.com, 157256, RESELLER, 5d62403b186f2ace
+Se7en.es, 212432, RESELLER, 064bc410192443d8
+rubiconproject.com, 18224, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1894, RESELLER
+smartadserver.com, 3445, RESELLER
+axonix.com, 59041, RESELLER
+lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
 # display.io
 display.io, 2050, DIRECT
 rubiconproject.com, 19938, RESELLER, 0bfd66d529a55807
