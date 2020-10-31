@@ -74,6 +74,7 @@ smartadserver.com, 1894, RESELLER
 smartadserver.com, 3445, RESELLER
 axonix.com, 59041, RESELLER
 lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
+improvedigital.com, 1202, RESELLER
 # display.io
 display.io, 2050, DIRECT
 rubiconproject.com, 19938, RESELLER, 0bfd66d529a55807
