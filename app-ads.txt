@@ -83,6 +83,11 @@ indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 lkqd.net, 654, RESELLER, 59c49fa9598a0117
 advertising.com, 6814, RESELLER
+e-planning.net, e1028cf4f3301b90, RESELLER, c1ba615865ed87b2
+gitberry.com, 577, RESELLER
+prequel.tv, 513, RESELLER
+improvedigital.com, 1880, RESELLER
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
