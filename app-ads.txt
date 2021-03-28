@@ -40,8 +40,8 @@ Contextweb.com, 561849, RESELLER, 89ff185a4c4e857c #Verve
 admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
 indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
-pubnative.net, 1007303, DIRECT, d641df8625486a7b
-pubnative.net, 1007311, DIRECT, d641df8625486a7b
+pubnative.net, 1007303, RESELLER, d641df8625486a7b
+pubnative.net, 1007311, RESELLER, d641df8625486a7b
 Pubnative.net, 1006951, RESELLER, d641df8625486a7b   
 advertising.com, 28246, RESELLER
 video.unrulymedia.com, 3704396951, RESELLER
@@ -88,6 +88,11 @@ gitberry.com, 577, RESELLER
 prequel.tv, 513, RESELLER
 improvedigital.com, 1880, RESELLER
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+advertising.com, 24315, RESELLER 
+beachfront.com, 7300, RESELLER
+rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
+verve.com, 15624, RESELLER, 0c8f5958fc2d6270
+appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
