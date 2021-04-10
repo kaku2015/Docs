@@ -93,6 +93,7 @@ beachfront.com, 7300, RESELLER
 rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
 verve.com, 15624, RESELLER, 0c8f5958fc2d6270
 appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
+pubnative.net, 1007644, DIRECT, d641df8625486a7b
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
