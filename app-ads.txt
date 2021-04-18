@@ -25,7 +25,6 @@ rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 Contextweb.com, 561884, RESELLER, 89ff185a4c4e857c
 rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
-improvedigital.com, 1366, RESELLER
 engagebdr.com, 10252, RESELLER #banner #video
 bidmachine.io, 55, RESELLER
 bidmachine.io, 59, RESELLER
@@ -94,6 +93,12 @@ rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
 verve.com, 15624, RESELLER, 0c8f5958fc2d6270
 appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
 pubnative.net, 1007644, DIRECT, d641df8625486a7b
+improvedigital.com, 1150, RESELLER
+improvedigital.com, 1751, RESELLER
+aol.com, 57992, RESELLER, e1a5b5b6e3255540
+yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
+tpmn.io 256, RESELLER
+mars.media, 1010380, RESELLER, 8624339f102fb076
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
