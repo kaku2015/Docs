@@ -97,7 +97,7 @@ improvedigital.com, 1150, RESELLER
 improvedigital.com, 1751, RESELLER
 aol.com, 57992, RESELLER, e1a5b5b6e3255540
 yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
-tpmn.io 256, RESELLER
+tpmn.io, 256, RESELLER
 mars.media, 1010380, RESELLER, 8624339f102fb076
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
