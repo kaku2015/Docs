@@ -111,6 +111,15 @@ xandr.com, 12745, RESELLER, f5ab79cb980f11d1
 teads.tv, 21703, RESELLER, 15a9c44f6d26cbe1
 smartadserver.com, 3964, RESELLER
 adcolony.com, e8d70ef9dfabde92, RESELLER, 1ad675c9de6b5176
+districtm.io, 102098, RESELLER, 3fd707be9c4527c3
+pokkt.com, 7246, RESELLER, c45702d9311e25fd
+onetag.com, 705a6b1ce40ba54, RESELLER
+loopme.com, 11367, RESELLER, 6c8d5f95897a5a3b
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6
+decenterads.com, 191, RESELLER
+admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
+indexexchange.com, 194730, RESELLER
+Limpid.tv, 203706, RESELLER
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
