@@ -120,6 +120,12 @@ decenterads.com, 191, RESELLER
 admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
 indexexchange.com, 194730, RESELLER
 Limpid.tv, 203706, RESELLER
+appnexus.com, 12622, RESELLER
+ssp.logan.ai, LG10, RESELLER
+smartadserver.com, 4083, RESELLER
+adverty.com, 38d105dc-52d7-4dc9-a662-3b4d02762ab4, RESELLER, 2b1a2f9cd997fcab
+nobid.io, 22440222861, RESELLER
+appnexus.com, 12969, RESELLER
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
