@@ -134,6 +134,18 @@ lkqd.net, 696, DIRECT, 59c49fa9598a0117
 axonix.com, 56222, RESELLER
 pubmatic.com,156631,RESELLER,5d62403b186f2ace
 nobid.io, 22388449880, RESELLER
+rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
+conversantmedia.com, 100293, RESELLER, 03113cd04947736d
+indexexchange.com, 194974, RESELLER
+rtb.xe.works, 79, RESELLER, XE0001
+smartclip.net, 13039, RESELLER
+freewheel.tv, 1161393, RESELLER
+freewheel.tv, 1162449, RESELLER
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
+appads.in, 107246, RESELLER
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
