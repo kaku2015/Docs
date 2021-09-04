@@ -146,6 +146,7 @@ pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 appads.in, 107246, RESELLER
+#N/A
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
