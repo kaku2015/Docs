@@ -146,7 +146,23 @@ pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 appads.in, 107246, RESELLER
-#N/A
+conversantmedia.com, 100097, RESELLER, 03113cd04947736d
+zedo.com, 1932, RESELLER
+improvedigital.com, 1772, RESELLER
+targetspot.com, 270, RESELLER, feb28ed826dcf532
+indexexchange.com, 194301, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
+appnexus.com, 12941, RESELLER, f5ab79cb980f11d1
+nobid.io, 22501800598, RESELLER
+appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 195812, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 12447, RESELLER, f5ab79cb980f11d1
+beachfront.com, 13836, RESELLER, e2541279e8e2ca4d
+smartadserver.com, 3439, RESELLER
+smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
+appnexus.com, 13091, RESELLER, f5ab79cb980f11d1
+EMXDGT.com, 2041, RESELLER, 1e1d41537f7cad7f
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
