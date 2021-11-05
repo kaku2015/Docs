@@ -191,6 +191,7 @@ e-planning.net, e1028cf4f3301b90, RESELLER, c1ba615865ed87b2
 se7en.es, 212432, RESELLER, 064bc410192443d8
 prequel.tv, 513, RESELLER
 pubmatic.com, 160989, RESELLER, 5d62403b186f2ace
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 # Smatto
 smaato.com, 1100046989, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
