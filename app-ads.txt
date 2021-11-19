@@ -128,6 +128,56 @@ openx.com, 540857594, RESELLER, 6a698e2ec38604c6
 betweendigital.com, 44249, RESELLER
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e
+gitberry.com, 577, RESELLER
+pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160195, RESELLER, 5d62403b186f2ace
+appnexus.com, 12447, RESELLER, f5ab79cb980f11d1
+beachfront.com, 13836, RESELLER, e2541279e8e2ca4d
+pubwise.io, 79286992, RESELLER, c327c91a93a7cdd3
+advertising.com, 21564, RESELLER
+smartadserver.com, 3864, RESELLER
+improvedigital.com, 1458, RESELLER
+gumgum.com,13768, RESELLER,ffdef49475d318a9
+appnexus.com, 13066, RESELLER, f5ab79cb980f11d1
+yieldmo.com, 2850137996525511226, RESELLER
+appnexus.com, 13180, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 1361, RESELLER
+improvedigital.com, 1831, RESELLER
+appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 4039, RESELLER
+adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+opera.com, pub5449961587776, RESELLER, 55a0c5fd61378de3
+rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
+openx.com, 541177349, RESELLER, 6a698e2ec38604c6
+rhythmone.com, 3880497124, RESELLER, a670c89d4a324e47
+loopme.com, 11278, RESELLER, 6c8d5f95897a5a3b
+betweendigital.com, 44095, RESELLER
+e-planning.net, a2cf8e1f8bd52704, RESELLER, c1ba615865ed87b2
+pubmatic.com, 161174, RESELLER, 5d62403b186f2ace
+lemmatechnologies.com, 772, RESELLER,7829010c5bebd1fb #LEMMA
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace #LEMMA
+smartadserver.com, 3564, RESELLER
+betweendigital.com, 43740, RESELLER
+onetag.com, 601a5990b7f5cf7, RESELLER
+appnexus.com, 13100, RESELLER, f5ab79cb980f11d1
+supply.colossusssp.com, 359, RESELLER, 6c5b49d96ec1b458
+altitude-arena.com, VGG64S74VL0BB832E3IFQ85LQ4, RESELLER
+adform.com, 2671, RESELLER
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100308, RESELLER, 03113cd04947736d
+rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
+criteo.com, B-063105, RESELLER, 9fac4a4a87c2a44f
+axonix.com, 57869, RESELLER
+inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
+meitu.com, 568, RESELLER
+smartadserver.com, 3503, RESELLER
+freewheel.tv, 1106481, RESELLER
+freewheel.tv, 1106497, RESELLER
+pubmatic.com, 155986, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159478, RESELLER, 5d62403b186f2ace
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
