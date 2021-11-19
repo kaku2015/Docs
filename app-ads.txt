@@ -477,3 +477,37 @@ pubmatic.com, 158111, RESELLER, 5d62403b186f2ace
 appnexus.com, 10824, RESELLER
 chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
 districtm.io,101649,RESELLER,3fd707be9c4527c3
+
+# AlgoriX
+algorix.co, 60365, DIRECT, 5b394c12fea27a1d
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+pubnative.net, 1007262, RESELLER, d641df8625486a7b
+olaex.biz,100039, RESELLER
+Pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
+Peak226.com, 12900, RESELLER
+Peak226.com, 12901, RESELLER
+engagebdr.com, 10423, RESELLER
+adxchange.mobi, 5a0a8d, RESELLER
+smartadserver.com, 3817, RESELLER
+smartadserver.com, 3896, RESELLER
+bidmachine.io, 35, RESELLER
+admixer.net, a80e4ca1-f52f-4aa5-98e1-010c8d08251b, RESELLER
+rhythmone.com, 1295892552, RESELLER, a670c89d4a324e47
+e-planning.net,53f866af404c4b62,RESELLER,c1ba615865ed87b2
+brightcom.com, 15800, RESELLER
+onetag.com, 5a02ff98ba6be67, RESELLER
+advertising.com, 28246, RESELLER
+mobuppsrtb.com, 68264bdb65b97eeae6788aa3348e553c, RESELLER
+smartyads.com, 897, fd2bde0ff2e62c5d, RESELLER
+improvedigital.com, 1849, RESELLER
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
+inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d 
+admanmedia.com, 621, Reseller
+tpmn.io, 415, RESELLER
+bold-win.com, 45325, RESELLER
+gamoshi.io, 267-b4627, RESELLER
+loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+meitu.com, 581, RESELLER
+betweendigital.com, 44088, RESELLER
+appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
