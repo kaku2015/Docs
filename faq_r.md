@@ -10,6 +10,6 @@ Because of the limitation of Google Play, on Android 11 and higher devices, apps
 
 3. The backup and restore function also needs permission.
 
-And this is the official explanation: https://developer.android.com/training/data-storage/manage-all-files#all-files-access-google-play
+And this is the Google's official explanation: https://developer.android.com/training/data-storage/manage-all-files#all-files-access-google-play
 
 Thanks for understanding.
