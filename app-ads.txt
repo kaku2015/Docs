@@ -178,6 +178,23 @@ freewheel.tv, 1106481, RESELLER
 freewheel.tv, 1106497, RESELLER
 pubmatic.com, 155986, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159478, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1805, RESELLER
+criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44
+admanmedia.com, 936, RESELLER
+sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
+opera.com, pub5959307917824, RESELLER, 55a0c5fd61378de3
+yieldmo.com, 2807970144171533194, RESELLER
+appnexus.com, 13346, RESELLER
+thirdpresence.com, 497215, RESELLER
+inmobi.com, 6f4e0f593c2c4e5bb9d03d3042318ab0, RESELLER, 83e75a7ae333ca9d
+pokkt.com, 7246, RESELLER, c45702d9311e25fd
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
+appads.in, 107246, RESELLER
+pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
