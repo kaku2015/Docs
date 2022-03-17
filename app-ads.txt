@@ -853,6 +853,11 @@ pubmatic.com, 158111, RESELLER, 5d62403b186f2ace
 appnexus.com, 10824, RESELLER
 chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
 districtm.io,101649,RESELLER,3fd707be9c4527c3
+inmobi.com,ec6f6ceb8bb1440ba5455644ec96c275,RESELLER,83e75a7ae333ca9d
+aol.com,58596,RESELLER,e1a5b5b6e3255540
+yahoo.com,58596,RESELLER,e1a5b5b6e3255540
+indexexchange.com,193880,RESELLER
+rhythmone.com,3341072718,RESELLER,a670c89d4a324e47
 
 # AlgoriX
 algorix.co, 60365, DIRECT, 5b394c12fea27a1d
