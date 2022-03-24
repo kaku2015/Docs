@@ -84,20 +84,14 @@ admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
 Se7en.es, 212432, RESELLER, 064bc410192443d8
-teads.tv, 21703, RESELLER, 15a9c44f6d26cbe1
 smartadserver.com, 3964, RESELLER
 indexexchange.com, 194974, RESELLER
-nobid.io, 22388449880, RESELLER
 pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 districtm.io, 102098, RESELLER, 3fd707be9c4527c3
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
-loopme.com, 11367, RESELLER, 6c8d5f95897a5a3b
-onetag.com, 705a6b1ce40ba54, RESELLER
-advertising.com, 28734, RESELLER
-indexexchange.com, 194301, RESELLER, 50b1c356f2c5c8fc
 prequel.tv, 513, RESELLER
 improvedigital.com, 1880, RESELLER
 advertising.com, 24315, RESELLER 
@@ -142,7 +136,6 @@ openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e
 gitberry.com, 577, RESELLER
 pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160195, RESELLER, 5d62403b186f2ace
 appnexus.com, 12447, RESELLER, f5ab79cb980f11d1
 beachfront.com, 13836, RESELLER, e2541279e8e2ca4d
 pubwise.io, 79286992, RESELLER, c327c91a93a7cdd3
@@ -154,7 +147,6 @@ appnexus.com, 13066, RESELLER, f5ab79cb980f11d1
 yieldmo.com, 2850137996525511226, RESELLER
 appnexus.com, 13180, RESELLER, f5ab79cb980f11d1
 improvedigital.com, 1361, RESELLER
-improvedigital.com, 1831, RESELLER
 appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
 smartadserver.com, 4039, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
@@ -170,11 +162,6 @@ pubmatic.com, 161174, RESELLER, 5d62403b186f2ace
 lemmatechnologies.com, 772, RESELLER,7829010c5bebd1fb #LEMMA
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace #LEMMA
 smartadserver.com, 3564, RESELLER
-betweendigital.com, 43740, RESELLER
-onetag.com, 601a5990b7f5cf7, RESELLER
-appnexus.com, 13100, RESELLER, f5ab79cb980f11d1
-supply.colossusssp.com, 359, RESELLER, 6c5b49d96ec1b458
-altitude-arena.com, VGG64S74VL0BB832E3IFQ85LQ4, RESELLER
 adform.com, 2671, RESELLER
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
@@ -192,14 +179,11 @@ pubmatic.com, 155986, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159478, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
 improvedigital.com, 1805, RESELLER
-criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44
 admanmedia.com, 936, RESELLER
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 opera.com, pub5959307917824, RESELLER, 55a0c5fd61378de3
 yieldmo.com, 2807970144171533194, RESELLER
 appnexus.com, 13346, RESELLER
-thirdpresence.com, 497215, RESELLER
-inmobi.com, 6f4e0f593c2c4e5bb9d03d3042318ab0, RESELLER, 83e75a7ae333ca9d
 pokkt.com, 7246, RESELLER, c45702d9311e25fd
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
@@ -229,6 +213,24 @@ video.unrulymedia.com, 5336134699710583737, RESELLER
 opera.com, pub6390586105984, RESELLER, 55a0c5fd61378de3
 undertone.com, 4113, RESELLER
 growintech.co, 36854, RESELLER
+admixer.co.kr, 1289, RESELLER
+indexexchange.com, 197200, RESELLER, 50b1c356f2c5c8fc
+opera.com, pub4443745972800, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1708, RESELLER
+appnexus.com, 13709, RESELLER, f5ab79cb980f11d1
+xandr.com, 13709, RESELLER
+zeststack.com, 394, RESELLER
+rubiconproject.com, 23986, RESELLER, 0bfd66d529a55807
+thebrave.io, 1234589, RESELLER, c25b2154543746ac
+appnexus.com, 13447, RESELLER, f5ab79cb980f11d1
+inmobi.com, 4c0f91dba8c94e00a3c6d71a83f0d87a, RESELLER, 83e75a7ae333ca9d
+indexexchange.com, 197418, RESELLER, 50b1c356f2c5c8fc
+olaex.biz, 100133, RESELLER
+kubient.com, 5f716d8d5d837, RESELLER, 4f12311e6ed900a3
+kubient.com, 610d9b215355e, RESELLER, 4f12311e6ed900a3
+indexexchange.com, 193747, RESELLER, 50b1c356f2c5c8fc
+criteo.com, B-058443, RESELLER, 9fac4a4a87c2a44f
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
