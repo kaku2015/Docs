@@ -864,7 +864,7 @@ indexexchange.com,193880,RESELLER
 rhythmone.com,3341072718,RESELLER,a670c89d4a324e47
 
 # AlgoriX
-algorix.co, 60365, DIRECT, 5b394c12fea27a1d
+algorix.co, 60442, DIRECT, 5b394c12fea27a1d
 openx.com, 540838151, RESELLER, 6a698e2ec38604c6
 pubnative.net, 1007262, RESELLER, d641df8625486a7b
 olaex.biz,100039, RESELLER
@@ -896,3 +896,4 @@ pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
 meitu.com, 581, RESELLER
 betweendigital.com, 44088, RESELLER
 appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
+themediagrid.com, FH3TKJ, Reseller, 35d5010d7789b49d
