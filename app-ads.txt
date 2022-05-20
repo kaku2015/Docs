@@ -1,7 +1,17 @@
 google.com, pub-1971761951269767, DIRECT, f088c47fec942fa0
 #A4G
+a4g.com, 13320, DIRECT
 google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
-contextweb.com, 560019, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
+media.net, 8CULY277R, RESELLER
+sharethrough.com, Uc8GWHvM, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+onetag.com, 77cc0899358027b, RESELLER
+onetag.com, 77cc0899358027b-OB, RESELLER
+appnexus.com, 13099, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 #Applovin
 applovin.com, 3e311c847392c03f23c555549e00e296, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
