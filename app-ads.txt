@@ -414,6 +414,29 @@ pubnative.net, 1006955, RESELLER, d641df8625486a7b
 tremorhub.com, rwd19-3834106, RESELLER, 1a4e959a1b50034a
 yandex.com, 40427798, RESELLER
 yandex.com, 97539269, RESELLER
+adelement.com, 30167, RESELLER
+admanmedia.com, 613, RESELLER
+adview.com, 48045325, RESELLER, 1b2cc038a11ea319
+advlion.com, 5140, RESELLER
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+algorix.co, 60016, RESELLER, 5b394c12fea27a1d
+appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
+pubnative.net, 1003601, RESELLER, d641df8625486a7b
+pubnative.net, 1007063, RESELLER, d641df8625486a7b
+thebrave.io, 1234594, RESELLER, c25b2154543746ac
+thebrave.io, 9840732, RESELLER, c25b2154543746ac
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+xandr.com, 13167, RESELLER, f5ab79cb980f11d1
+xandr.com, 13297, RESELLER, f5ab79cb980f11d1
+xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 #Inmobi
 inmobi.com, cb1b744609d74d46b414c5c1efbf3e2f, DIRECT, 83e75a7ae333ca9d
 inmobi.com, b164fef73b06493b92a9fae09941eef4, RESELLER, 83e75a7ae333ca9d
