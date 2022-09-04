@@ -204,6 +204,46 @@ kubient.com, 6230c3aff3f32, RESELLER, 4f12311e6ed900a3
 rubiconproject.com, 24606, RESELLER, 0bfd66d529a55807
 loopme.com, 11481, RESELLER,6c8d5f95897a5a3b
 media.net, 8CUNEOK3R, RESELLER
+themediagrid.com, XYIOA3, RESELLER, 35d5010d7789b49d
+themediagrid.com, FZ4NIA, RESELLER, 35d5010d7789b49d
+xandr.com, 14083, RESELLER, f5ab79cb980f11d1
+Limpid.tv, 203706, RESELLER
+ssp.smartyads.com, 4244, RESELLER, fd2bde0ff2e62c5d
+mintegral.com, 10051, RESELLER, 0aeed750c80d6423
+sharethrough.com, 77240395, RESELLER, d53b998a7bd4ecd2
+152media.info, 152M337, RESELLER
+App-stock.com, 317847, RESELLER
+rubiconproject.com, 24538, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 5284234284830726400, RESELLER
+pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
+yahoo.com, 59905, RESELLER, e1a5b5b6e3255540
+smartadserver.com, 4396, RESELLER
+rubiconproject.com, 24350, RESELLER, 0bfd66d529a55807
+pubmatic.com,161995,RESELLER,5d62403b186f2ace
+appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
+contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 24174, RESELLER, 0bfd66d529a55807
+yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
+appnexus.com, 12964, RESELLER
+e-planning.net, 7fd99c56106cb0d7, RESELLER, c1ba615865ed87b2
+sharethrough.com, 23830661, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4344, RESELLER
+video.unrulymedia.com, 2857386422084763865, RESELLER
+rubiconproject.com, 24448, RESELLER, 0bfd66d529a55807
+yahoo.com, 59967, RESELLER, e1a5b5b6e3255540
+video.unrulymedia.com, 5161057819193970664, RESELLER
+rubiconproject.com, 24806, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 7267380105862376423, RESELLER
+loopme.com, 11483, RESELLER, 6c8d5f95897a5a3b
+appnexus.com, 13697, RESELLER, f5ab79cb980f11d1
+Pubmatic.com, 158753, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 4631344382657206988, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf5658, RESELLER
+contextweb.com, 562741, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+triplelift.com, 12240, RESELLER, 6c33edb13117fd86
+pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
+ssp.e-volution.ai, AJxF6R111a9M6CaTvK, RESELLER
 # Charboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
