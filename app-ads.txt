@@ -1079,6 +1079,7 @@ xandr.com, 13238, RESELLER, f5ab79cb980f11d1
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 yeahmobi.com, 15984, RESELLER
 # tappx
+google.com, pub-2713914264223504, RESELLER, f08c47fec0942fa0
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 adcolony.com, c490f6e7399a25d6, RESELLER, 1ad675c9de6b5176
 aol.com, 58596, RESELLER, e1a5b5b6e3255540
