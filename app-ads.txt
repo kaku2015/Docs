@@ -799,6 +799,55 @@ indexexchange.com, 184738, RESELLER
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 meitu.com, 699, RESELLER
 video.unrulymedia.com, 115018688080045007, RESELLER
+ushareit.com,LCa1e24323837337a3,RESELLER
+adsbea.com, 4, RESELLER
+opera.com, pub8049291171776, RESELLER, 55a0c5fd61378de3
+rixserv.com, 604510, RESELLER
+meitu.com, 756, RESELLER
+webeyemob.com, 70121, RESELLER
+pubmatic.com, 163307, RESELLER, 5d62403b186f2ace
+loopme.com, 11633, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com,163420,RESELLER,5d62403b186f2ace
+pubwise.io,52324626,RESELLER,c327c91a93a7cdd3
+vidoomy.com,4930225,RESELLER
+waardex.com,103777,RESELLER
+showheroes.com, 6019, RESELLER
+rubiconproject.com, 23822, RESELLER, 0bfd66d529a55807
+adform.com, 3006, RESELLER, 9f5210a2f0999e32
+contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
+sharethrough.com, oKoQuw5Z, RESELLER, d53b998a7bd4ecd2
+sovrn.com, 380632, RESELLER, fafdf38b16bf6b2b
+zmaticoo.com, 113149, RESELLER
+adform.com, 2845, RESELLER, 9f5210a2f0999e32
+added.tv, 3d20ca0f, RESELLER
+vidoomy.com, 4433873, RESELLER
+xandr.com, 14884, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
+conversantmedia.com, 100521, RESELLER, 03113cd04947736d
+video.unrulymedia.com, 2979066401945419350, RESELLER
+adtonos.com, PUB1604229842, RESELLER
+loopme.com, 11566, RESELLER, 6c8d5f95897a5a3b
+appnexus.com, 13227, RESELLER, f5ab79cb980f11d1
+gumgum.com, 15835, RESELLER, ffdef49475d318a9
+adform.com, 3016, RESELLER
+markappmedia.site, 587286, RESELLER
+admixer.net, 64636a4f-c002-4d09-a7ec-960530b32b94, RESELLER
+yeahmobi.com, 113149, RESELLER
+rubiconproject.com, 25572, RESELLER, 0bfd66d529a55807
+xandr.com, 15018, RESELLER
+instreamatic.com, 78, RESELLER
+taipeidigital.com, 1122, RESELLER
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
+indexexchange.com, 184738, RESELLER, 50b1c356f2c5c8fc
+triplelift.com, 13465, RESELLER, 6c33edb13117fd86
+admanmedia.com, 2050, RESELLER
+sharethrough.com, DQQogebZ, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 25374, RESELLER, 0bfd66d529a55807
+improvedigital.com, 2173, RESELLER
+pangleglobal.com, 67894, RESELLER
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+markappmedia.site, 322972, RESELLER
+rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
 #Vungle
 vungle.com, 62a6ab84bc8bad001b009e52, DIRECT, c107d686becd2d77
 sonobi.com,5b003395a5,RESELLER,d1a215d9eb5aee9e
