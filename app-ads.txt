@@ -288,7 +288,7 @@ snack-media.com, SNM_4159, RESELLER
 lijit.com, 522380, RESELLER, fafdf38b16bf6b2b
 pokkt.com, 8503, RESELLER, c45702d9311e25fd
 appads.in, 108503, RESELLER
-flat-ads.com, 153, RSESLLER
+flat-ads.com, 153, RESELLER
 pixelpluses.com, 212489, RESELLER
 leapmobs.com, 36605, RESELLER
 improvedigital.com, 2081, RESELLER
