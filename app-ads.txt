@@ -1084,7 +1084,7 @@ video.unrulymedia.com, 2736329702851206590, RESELLER
 openx.com, 540773939, RESELLER, 6a698e2ec38604c6
 appnexus.com, 8283, RESELLER, f5ab79cb980f11d1
 # Charboost
-loopme.com,14003,DIRECT,6c8d5f95897a5a3b
+loopme.com, 14003, DIRECT, 6c8d5f95897a5a3b
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
