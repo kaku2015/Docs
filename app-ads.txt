@@ -1734,6 +1734,21 @@ lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
 showheroes.com, 6031, RESELLER
 smartclip.net, 27985, RESELLER
 conversantmedia.com, 100863, RESELLER, 03113cd04947736d
+loopme.com,14022, DIRECT,6c8d5f95897a5a3b
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3  
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace  
+sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2  
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6  
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807  
+xandr.com, 13799, RESELLER  
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86  
+adform.com, 3083, RESELLER  
+sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e  
+smartclip.net, 15458, RESELLER  
+video.unrulymedia.com, 2148207460, RESELLER  
+opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3  
+freewheel.tv, 1137745, RESELLER  
+improvedigital.com, 1532, RESELLER
 # Smatto
 smaato.com, 1100046989, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
