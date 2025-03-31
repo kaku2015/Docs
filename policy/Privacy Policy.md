@@ -1,25 +1,80 @@
-# Privacy Policy
-Sgallery \"we\", \"us\", \"our\" is committed to maintaining customer privacy through an ethical performance culture that is based on trust, simplicity and confidence. It is one of Sgallery \'s core principles to secure customer information while using our mobile applications (\"products\"), and provide privacy protection that is critical in maintaining trust and providing better services. Sgallery\'s individual privacy protection policy ensures the confidentiality of customer information under the defined terms and conditions below.
-## 1 Information We Collect From You
-1.1 We may collect Personal Data from you, such as your name, e-mail address when you create an account to log in to your Account.
-</br>1.2 If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other information included in the e-mail, in order to send you a reply.
-</br>1.3 We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, account meta data and other information when you use the services provided by Sgallery.
-## 2 The Purpose of Collecting Information
-Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We will only use Personal Data in ways that are compatible with the purposes for which it was collected or as subsequently authorized by you. We use your Personal Data in the following ways:
-</br>i) To facilitate the creation of and secure your Account on our network
-</br>ii) To identify you as a user in our system and provide support to you when requested
-</br>iii) To improve the quality of experience when you interact with our App and Service
-</br>iv) To send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created
-</br>v) To send you administrative e-mail notifications, such as security or support and maintenance advisories
-</br>vi) To send newsletters, surveys, offers, and other promotional materials related to our Service and for our other marketing purposes.
-## 3 Security of Your Personal Data
-We are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. The password is hashed and securely transmitted over the network.
-</br>Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we use reasonable efforts to protect your Personal Data, we cannot guarantee its absolute security.
-## 4 Disclaimer
-4.1 In case any competent government authority requests us to disclose any personal user identification information in accordance with relevant legal procedures, laws or regulations, we will provide such personal user information according to the requirements of the government authority or for the purpose of public safety. Sgallery will assume no liability for any disclosure in such case.
-</br>4.2 Sgallery will not assume any responsibility for any of your personal information that is disclosed for your own reasons (for example, when you voluntarily disclose to other people your password or when you share your account with other people).
-</br>4.3 Sgallery assumes no responsibility for any personal information that is lost, disclosed, or falsified due to forces beyond Sgallery\'s control, including but not limited to events that may affect normal network operations, such as hacker attack, intrusion or attack of computer virus and temporary closure of websites due to government regulations or actions.
-</br>4.4 Sgallery assumes no responsibility when it or a third party uses your personal information in accordance with provisions of relevant laws or regulations or this privacy policy.
-</br>4.5 Sgallery assumes no responsibility when your personal information is disclosed due to unpredictable and inevitable risks of the internet, including without limitation: virus attack, hijacking, temporary site closure or server closure resulted from government control and inevitable technical defects of the software due to technical level at the time of development.
-## 5 Contact us
-We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at <u>FishingNetTech@yeah.net</u>.
+**Privacy Policy**
+
+This privacy policy applies to the Sgallery app (hereby referred to as "Application") for mobile devices that was created by FishingNet (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+
+**Information Collection and Use**
+
+The Application collects information when you download and use it. This information may include information such as
+
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   The operating system you use on your mobile device
+
+The Application does not gather precise information about the location of your mobile device.
+
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+
+*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+
+**Third Party Access**
+
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [AppLovin](https://www.applovin.com/privacy/)
+*   [Vungle](https://vungle.com/privacy/)
+
+The Service Provider may disclose User Provided and Automatically Collected Information:
+
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+**Opt-Out Rights**
+
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+**Data Retention Policy**
+
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at FishingNetTech@yeah.net and they will respond in a reasonable time.
+
+**Children**
+
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (FishingNetTech@yeah.net) so that they will be able to take the necessary actions.
+
+**Security**
+
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+
+**Changes**
+
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+This privacy policy is effective as of 2025-03-31
+
+**Your Consent**
+
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at FishingNetTech@yeah.net.
+
+* * *
+
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
