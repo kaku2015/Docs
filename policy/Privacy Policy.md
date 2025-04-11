@@ -29,13 +29,18 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Play Services](https://policies.google.com/privacy)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [Google Ad Manager](https://support.google.com/admanager/answer/2839090)
+*   [Unity](https://unity.com/legal/privacy-policy)
 *   [AppLovin](https://www.applovin.com/privacy/)
 *   [Vungle](https://vungle.com/privacy/)
+*   [Smaato](https://www.smaato.com/privacy/)
+*   [Verve Group](https://verve.com/product-privacy-policies/)
+*   [InMobi](https://advertising.inmobi.com/privacy-policy)
+*   [ironSource](https://unity.com/legal/privacy-policy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
