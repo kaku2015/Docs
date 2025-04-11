@@ -14,8 +14,13 @@ Please note that the Application utilizes third-party services that have their o
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
-*   [Unity](https://unity3d.com/legal/terms-of-service)
+*   [Google Ad Manager](https://www.google.com/ads/terms.pdf)
+*   [Unity](https://unity.com/legal/terms-of-service)
 *   [AppLovin](https://www.applovin.com/terms/)
+*   [Vungle](https://www.liftoff.io/terms-of-service/)
+*   [Smaato](https://www.smaato.com/terms/)
+*   [InMobi](https://advertising.inmobi.com/terms-of-service)
+*   [ironSource](https://unity.com/legal/terms-of-service)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
