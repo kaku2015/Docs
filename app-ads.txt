@@ -1890,6 +1890,23 @@ video.unrulymedia.com, 2148207460, RESELLER
 opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3  
 freewheel.tv, 1137745, RESELLER  
 improvedigital.com, 1532, RESELLER
+selectmedia.asia, 645b5a31e427dc0a87025fa5 , RESELLER, e365c871a27c655d
+app-stock.com, 458952, RESELLER
+indexexchange.com, 211613, RESELLER, 50b1c356f2c5c8fc
+siprocalads.com, FDEE7O33SD2B5773S1HU6H5IM8, RESELLER
+themediagrid.com, 4ZVFEU, RESELLER, 35d5010d7789b49d
+yieldmo.com, 3590879766707642794, RESELLER
+ushareit.com, LC98ffe3f38a46423e, RESELLER
+krushmedia.com, AJxF6R662a9M6CaTvK, RESELLER
+smartyads.com,100034, RESELLER, fd2bde0ff2e62c5d
+yellowhead.com, 45c0a1d7e329bf, RESELLER
+connekt.ai, 2852512, RESELLER
+ignitemediatech.com, pub_11125, RESELLER
+admixer.net,eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
+iqzone.com, IQ137, RESELLER
+adwmg.com, 100765, RESELLER, c9688a22012618e7
+screenil.com, 547745 , RESELLER
+yeahmobi.com, 5135284, RESELLER
 # Smatto
 smaato.com, 1100046989, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
