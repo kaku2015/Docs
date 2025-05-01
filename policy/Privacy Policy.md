@@ -52,6 +52,7 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 **Permissions We Request and Why**
+
 Our app requests the following permissions in order to provide core functionality:
 
 Storage Access (All Files or Media Access)
