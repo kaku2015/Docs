@@ -40,7 +40,6 @@ Please note that the Application utilizes third-party services that have their o
 *   [Smaato](https://www.smaato.com/privacy/)
 *   [Verve Group](https://verve.com/product-privacy-policies/)
 *   [InMobi](https://advertising.inmobi.com/privacy-policy)
-*   [ironSource](https://unity.com/legal/privacy-policy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -52,9 +51,21 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-**Data Retention Policy**
+**Permissions We Request and Why**
+Our app requests the following permissions in order to provide core functionality:
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at FishingNetTech@yeah.net and they will respond in a reasonable time.
+Storage Access (All Files or Media Access)
+We require access to your device's storage to locate, encrypt, and securely manage your photos, videos, and other supported file types. All data remains on your device and is never uploaded or shared without your consent. This includes access such as "All Files Access" (MANAGE_EXTERNAL_STORAGE), where applicable and approved by Google.
+
+Camera Permission
+Required to take photos and record videos within the app. This includes access to the device's camera (and microphone when recording video). All media captured is stored locally and handled securely.
+
+We do not collect, transmit, or share any personal media files under any circumstance.
+
+**Data Retention and Deletion**
+
+All user-generated content (such as photos, videos, and other files) is stored only on the user's device. We do not collect, upload, or process any personal media on external servers.
+Users can delete their content at any time through the app or by using their device's file manager. Once deleted, the data is permanently removed and cannot be recovered by the app.
 
 **Children**
 
