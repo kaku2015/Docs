@@ -1907,6 +1907,8 @@ iqzone.com, IQ137, RESELLER
 adwmg.com, 100765, RESELLER, c9688a22012618e7
 screenil.com, 547745 , RESELLER
 yeahmobi.com, 5135284, RESELLER
+zetaglobal.net, 633, RESELLER 
+saharmedia.net, 1683576, RESELLER
 # Smatto
 smaato.com, 1100046989, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
